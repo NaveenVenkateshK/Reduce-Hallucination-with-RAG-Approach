@@ -31,8 +31,8 @@ Set up Google Search API credentials by setting the environment variables:
 - export GOOGLE_CSE_ID=YOUR_GOOGLE_SEARCH_ENGINE_ID
 - export GOOGLE_API_KEY=YOUR_GOOGLE_API_KEY
 
-Run the code:
-python your_file_name.py
+# Run the code:
+> python your_file_name.py
 
 # Configuration
 - The language model is set to "TheBloke/Llama-2-7B-Chat-GGML."
