@@ -21,9 +21,10 @@ Ready to explore the future of AI? Let's journey into the realm of Hallucination
 
 # How To Run
 # Installation
+
 Install the required dependencies using:
-    pip install langchain
-    pip install ctransformers
+            pip install langchain
+            pip install ctransformers
 
 Set up Google Search API credentials by setting the environment variables:
 - export GOOGLE_CSE_ID=YOUR_GOOGLE_SEARCH_ENGINE_ID
